@@ -14,7 +14,7 @@ From the project root folder run the following command:
 mvn package
 ```
 Maven should take care of the compilation process, creating
-a JAR file in <project-root>/target/
+a JAR file in `<project-root>/target/`
 
 ## Usage
 
